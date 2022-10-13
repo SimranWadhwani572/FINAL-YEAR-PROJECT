@@ -43,5 +43,6 @@ A smart waste management system which :
 - [Deepanshi Jain](https://github.com/deepanshi-04)
 - [Simran Wadhwani](https://github.com/SimranWadhwani572)
 - [Vanshika Goel](https://github.com/vanshika-goel0109)
+- [Shourya Gupta](https://github.com/shourya-gupta)
 
 
