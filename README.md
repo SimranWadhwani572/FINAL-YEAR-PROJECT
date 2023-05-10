@@ -1,16 +1,8 @@
 
-# Microsoft Fix-a-thon 2022
 
-Topic:
-Hack for Sustainable India
-Build innovative solutions for environmental challenges across India.
-
-## Description:
 
 **Waste management:**
 
-**Title: The Junkies
-“Don’t waste your waste”**
 
 A lot of recyclable and reusable household dry waste is simply
 dumped into the junkyards without realising the worth of the waste products. A
